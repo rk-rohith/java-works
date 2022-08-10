@@ -1,4 +1,4 @@
-package streamOperations;
+package java8;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -8,11 +8,11 @@ import java.util.stream.Collectors;
 public class StreamOperations {
     public static void main(String[] args) {
         List<Employee> employeeList = Arrays.asList(
-                new Employee("a", 100),
-                new Employee("b", 300),
-                new Employee("c", 500),
-                new Employee("d", 400),
-                new Employee("f", 200)
+                new Employee("abc", 100),
+                new Employee("def", 300),
+                new Employee("ghi", 500),
+                new Employee("jkl", 400),
+                new Employee("mno", 200)
         );
 
         //sort using comparator
