@@ -63,6 +63,9 @@ This repository contains solutions to common coding interview questions in Java.
 19. [Three Sum Problem](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/ThreeSum.java)
 20. [Two Sum Problem](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/TwoSum.java)
 21. [Valid Parentheses Check](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/ValidParentheses.java)
+22. [Two Sum Using Two pointer Approach](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/TwoSumTwoPointerApproach.java)
+23. [Max SubArray using sliding window technique](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/SlidingWindowMaxSubArray.java)
+
 
 
 ## Description
