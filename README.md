@@ -21,3 +21,15 @@ This repository contains various examples of using Java 8 streams to perform com
 - [Reverse Words in a String](#reverse-words-in-a-string)
 - [Sum of First 10 Natural Numbers](#sum-of-first-10-natural-numbers)
 - [Strings Starting with a Number](#strings-starting-with-a-number)
+- [Sum of square of odd Numbers](#strings-starting-with-a-number)
+- [Employee Stream operation](#strings-starting-with-a-number)
+- [FlatMapExample](#strings-starting-with-a-number)
+
+
+# Singleton design
+
+- [SingletonExample](#strings-starting-with-a-number)
+- [SingletonDoubleChecked](#strings-starting-with-a-number)
+
+ 
+

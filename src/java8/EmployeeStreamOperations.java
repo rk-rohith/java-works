@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StreamOperations {
+public class EmployeeStreamOperations {
     public static void main(String[] args) {
         List<Employee> employeeList = Arrays.asList(
                 new Employee("abc", 100),
@@ -22,6 +22,10 @@ public class StreamOperations {
         //sort list in reverse oder using stream
         employeeList.stream()
                 .sorted(((o1, o2) -> o2.getSalary() - o1.getSalary())).forEach(System.out::println);
+
+        // Second highest salary
+        employeeList.stream().sorted(Comparator.comparingDouble(Employee::getSalary).reversed())
+                .skip(1).findFirst().orElse(null);
 
         //filter the student w.r.t salary
         employeeList.stream().filter(emp -> emp.getSalary()>200).forEach(System.out::println);
