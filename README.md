@@ -33,3 +33,26 @@ This repository contains various examples of using Java 8 streams to perform com
 
  
 
+# Java Coding programs
+
+1. [BestTimeToBuySellStock.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/BestTimeToBuySellStock.java)
+2. [BinarySearch.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/BinarySearch.java)
+3. [BubbleSort.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/BubbleSort.java)
+4. [Factorial.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/Factorial.java)
+5. [FindDuplicates.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/FindDuplicates.java)
+6. [FindMiddleNode.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/FindMiddleNode.java)
+7. [FirstAndLastIndex.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/FirstAndLastIndex.java)
+8. [MajorityElement.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/MajorityElement.java)
+9. [MergeTwoSortedArrays.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/MergeTwoSortedArrays.java)
+10. [MinimumInRotatedArray.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/MinimumInRotatedArray.java)
+11. [MyLinkedList.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/MyLinkedList.java)
+12. [PalindromeCheck.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/PalindromeCheck.java)
+13. [PrimeCheck.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/PrimeCheck.java)
+14. [ReverseLinkedList.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/ReverseLinkedList.java)
+15. [ReverseString.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/ReverseString.java)
+16. [RotateMatrix.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/RotateMatrix.java)
+17. [SearchInRotatedArray.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/SearchInRotatedArray.java)
+18. [SmallestNumber.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/SmallestNumber.java)
+19. [ThreeSum.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/ThreeSum.java)
+20. [TwoSum.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/TwoSum.java)
+21. [ValidParentheses.java](https://github.com/rk-rohith/java-works/blob/main/src/javacodingquestions/ValidParentheses.java)
